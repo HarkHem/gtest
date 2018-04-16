@@ -12,7 +12,6 @@ SOURCES += \
     text/append_line.c \
     text/create_text.c \
     text/cursors.c \
-    text/process_forward.c \
     text/process_forward_extra_option.c \
     text/tracer.c \
     text/remove_all.c

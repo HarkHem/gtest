@@ -22,7 +22,6 @@ HEADERS +=     tst_test1.h \
 SOURCES +=     main.cpp \
     ../app/shownum.c\
     ../app/load.c\
-    ../app/text/process_forward.c\
     ../app/text/append_line.c\
     ../app/text/process_forward_extra_option.c\
     ../app/text/create_text.c\
