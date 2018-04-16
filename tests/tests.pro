@@ -16,9 +16,7 @@ LIBS += -lgcov
 
 
 HEADERS +=     tst_test1.h \
-    ../app/myfunc.h \
     ../app/text/_text.h \
-    fibonachi_test.h \
     process_forward.h
 
 SOURCES +=     main.cpp \
