@@ -22,7 +22,6 @@ HEADERS +=     tst_test1.h \
     process_forward.h
 
 SOURCES +=     main.cpp \
-    ../app/myfunc.c \
     ../app/shownum.c\
     ../app/load.c\
     ../app/text/process_forward.c\
